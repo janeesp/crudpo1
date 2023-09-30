@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235122620133",
+    "project_id": "newprovider-6f0d2",
+    "storage_bucket": "newprovider-6f0d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235122620133:android:5c755df9635a820b4d460c",
+        "android_client_info": {
+          "package_name": "com.example.crudpo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL71Pq43PIDsdaAMYp7uBtSSzzEeuiLUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
